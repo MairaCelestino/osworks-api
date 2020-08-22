@@ -1,0 +1,1 @@
+spring.datasource.url=jdbc:msql://localhost:33060/sakila

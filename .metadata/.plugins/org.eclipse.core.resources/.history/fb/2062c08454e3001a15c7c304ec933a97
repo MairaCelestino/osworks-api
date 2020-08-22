@@ -1,0 +1,1 @@
+spring.datasource.url=jdbc:msql://localhost/osworks?createDatabaseIfNotExist=true&serverTimezone=UTC
