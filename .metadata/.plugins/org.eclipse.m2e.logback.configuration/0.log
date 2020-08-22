@@ -1,0 +1,219 @@
+2020-08-21 01:23:42,121 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-08-21 01:25:39,330 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 01:25:40,170 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 01:25:40,170 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:25:40,174 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:25:40,180 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 01:25:41,559 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2020-08-21 01:25:41,562 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 01:25:41,879 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 01:25:42,091 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 01:25:42,091 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:25:42,091 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:25:42,092 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 01:25:42,841 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-08-21 01:25:43,414 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:25:43,417 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:25:43,428 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:25:43,430 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:25:43,430 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:26:02,546 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-21 01:26:13,777 [Worker-0: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 01:26:13,783 [Worker-0: Launching osworks-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-08-21 01:28:08,521 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:28:08,524 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:28:08,525 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:28:08,526 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:28:08,526 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:33:55,229 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:33:55,230 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:33:55,231 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:33:55,233 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:33:55,233 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:34:15,546 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 01:34:15,918 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 01:34:16,179 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 01:34:16,179 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:34:16,180 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:34:16,180 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 01:34:16,341 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-21 01:34:16,682 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:34:16,682 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:34:16,692 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:34:16,694 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:34:16,694 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:34:24,683 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-21 01:34:36,240 [Worker-16: Launching osworks-api (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 01:34:36,240 [Worker-16: Launching osworks-api (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clear package -Dstyle.color=always
+2020-08-21 01:35:13,112 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 01:35:13,351 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 01:35:13,491 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 01:35:13,491 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:35:13,491 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:35:13,491 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 01:35:13,575 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-21 01:35:13,850 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:35:13,850 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:35:13,860 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:35:13,862 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:35:13,862 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:35:20,133 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-21 01:35:27,755 [Worker-13: Launching osworks-api (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 01:35:27,755 [Worker-13: Launching osworks-api (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clear package -Dstyle.color=always
+2020-08-21 01:36:00,358 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-21 01:36:09,881 [Worker-15: Launching osworks-api (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 01:36:09,881 [Worker-15: Launching osworks-api (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-08-21 01:36:45,710 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:36:45,713 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:36:45,714 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:36:45,715 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:36:45,716 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:54:59,252 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 01:54:59,719 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 01:54:59,976 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 01:54:59,976 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:54:59,976 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 01:54:59,977 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 01:55:00,068 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-21 01:55:00,332 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:55:00,333 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 01:55:00,343 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 01:55:00,345 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 01:55:00,345 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 01:55:06,707 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-21 01:55:13,100 [Worker-18: Launching osworks-api (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 01:55:13,100 [Worker-18: Launching osworks-api (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-08-21 02:13:39,447 [Worker-30: Launching osworks-api (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api
+2020-08-21 02:13:39,448 [Worker-30: Launching osworks-api (4)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean package -Dstyle.color=always
+2020-08-21 02:15:45,031 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:15:45,036 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:15:45,036 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:15:45,038 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:15:45,039 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:17:31,218 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:17:31,219 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:17:31,220 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:17:31,221 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:17:31,222 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:17:32,240 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:17:32,240 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:17:32,241 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:17:32,242 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:17:32,242 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:19:06,336 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:19:06,336 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:19:06,337 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:19:06,339 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:19:06,339 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:19:20,763 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:19:20,764 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:19:20,765 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:19:20,767 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:19:20,767 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:21:02,337 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:21:02,338 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:21:02,339 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:21:02,341 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:21:02,341 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:21:53,671 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:21:53,672 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:21:53,673 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:21:53,675 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:21:53,675 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:22:18,169 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:22:18,170 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:22:18,171 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:22:18,172 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:22:18,172 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:24:07,582 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:07,583 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:24:07,584 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:24:07,586 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:07,586 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:24:09,221 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:09,221 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:24:09,222 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:24:09,223 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:09,223 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:24:13,528 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:13,529 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:24:13,530 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:24:13,531 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:13,531 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:24:22,716 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:22,717 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:24:22,718 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:24:22,719 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:22,719 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:24:45,097 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:45,098 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:24:45,100 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:24:45,101 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:24:45,101 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:27:47,615 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:27:47,616 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:27:47,617 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:27:47,618 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:27:47,619 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:27:55,278 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:27:55,279 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:27:55,279 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:27:55,281 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:27:55,281 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:37:42,969 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 02:37:43,519 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE.pom
+2020-08-21 02:37:43,582 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE.pom
+2020-08-21 02:37:43,631 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE.jar
+2020-08-21 02:37:44,375 [Worker-37: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE.jar
+2020-08-21 02:37:44,543 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:44,546 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:37:44,546 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:37:44,549 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:44,549 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:37:45,836 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:45,837 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:37:45,845 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:37:45,847 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:45,847 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:37:46,190 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE-sources.jar
+2020-08-21 02:37:47,169 [Worker-42: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.3.3.RELEASE/spring-boot-devtools-2.3.3.RELEASE-sources.jar
+2020-08-21 02:37:47,182 [Worker-42: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.3.3.RELEASE
+2020-08-21 02:37:47,420 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:47,420 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:37:47,421 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:37:47,423 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:37:47,423 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:38:54,744 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:38:54,745 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:38:54,747 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:38:54,748 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:38:54,748 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:39:21,712 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:39:21,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:39:21,713 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:39:21,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:39:21,715 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:45:32,549 [Worker-37: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 02:46:54,176 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 02:46:54,412 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 02:46:54,565 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 02:46:54,565 [Worker-43: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 02:46:54,688 [Worker-43: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-21 02:49:42,506 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 02:49:42,919 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:49:42,919 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:49:42,929 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:49:42,931 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:49:42,931 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
+2020-08-21 02:50:11,486 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-08-21 02:50:11,710 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.osworks:osworks-api:0.0.1-SNAPSHOT @ /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/pom.xml.
+2020-08-21 02:50:11,907 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/main/java
+2020-08-21 02:50:11,908 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 02:50:11,908 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /osworks-api/src/main/resources
+2020-08-21 02:50:11,908 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /osworks-api/src/test/java
+2020-08-21 02:50:12,079 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-08-21 02:50:12,360 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:50:12,361 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-08-21 02:50:12,372 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-21 02:50:12,373 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-21 02:50:12,374 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/mairacelestino/Documents/workspace-spring-tool-suite-4-4.7.1.RELEASE/osworks-api/osworks-api/src/test/resources
