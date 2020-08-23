@@ -1,0 +1,14 @@
+1598197870892	Move compilation unit
+1598197878516	Move compilation unit
+1598197888321	Move compilation unit
+1598200446032	Delete element
+1598200552843	Delete element
+1598200612158	Rename resource 'V004__cria-tabela-comentario.sql'
+1598200630781	Rename resource 'cria-tabela-comentario.sql'
+1598200689520	Rename resource 'V004__cria-tabela-comentario.sql'
+1598200712748	Rename resource 'cria-tabela-comentario.sql'
+1598200766270	Delete element
+1598200858215	Rename resource 'criar-tabela-comentario.sql'
+1598200928798	Rename resource 'V004__criar-tabela-comentario.sql'
+1598201093669	Delete element
+1598202635271	Extract method 'buscar'
